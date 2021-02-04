@@ -1,7 +1,7 @@
 ### Hi there, I'm Frederick 👋
 
 ### About me:
-- 💻 Web Dev intern working with Vue.js
+- 💻 Web Dev working with Vue.js
 - 📜 Big fan of Javascript
 - 👨‍💻 Cyber Security Enthusiast
 - 🌍 Future polyglot
