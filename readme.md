@@ -1,4 +1,4 @@
-<h2>Hi there, I'm Fred 👋</h2>
+<h2>Howzit, I'm Fred 👋</h2>
 <h4>I'm a Software Engineer that likes to build things I think are cool</h4>
 
 <p>
