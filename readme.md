@@ -4,12 +4,12 @@
 <p>
 	- 🔭 I'm currently working on a <strong>recommendation engine</strong>
 </p>
-<p>- 🌱 I'm currently learning <strong>Data Engineering</strong></p>
+<p>- 🌱 I'm currently learning <strong>Data Engineering</strong> and a bit about <strong>AI</strong></p>
 <p>- ⚡ Fun fact: I like <strong>picking locks</strong> and <strong>tinkering with hardware</strong></p>
 
 <h4 align="left">Languages and Tools:</h4>
 
-<p align="left">   <a href="https://skillicons.dev">     <img src="https://skillicons.dev/icons?i=js,ts,py,rust,mysql,redis,git,azure,aws,linux" />   </a> </p>
+<p align="left">   <a href="https://skillicons.dev">     <img src="https://skillicons.dev/icons?i=js,ts,py,rust,mysql,redis,git,azure,aws,linux,tensorflow,pytorch" />   </a> </p>
 
 <details>
 	<summary>GitHub Stats</summary>
