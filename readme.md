@@ -9,13 +9,3 @@
 <h4 align="left">Languages and Tools:</h4>
 
 <p align="left">   <a href="https://skillicons.dev">     <img src="https://skillicons.dev/icons?i=js,ts,py,rust,mysql,postgres,mongodb,redis,git,azure,aws,linux,selenium" />   </a> </p>
-
-<details>
-	<summary>GitHub Stats</summary>
-	<p>
-		<img
-			src="https://github-readme-stats.vercel.app/api?username=fwmoor&show_icons=true&locale=en"
-			alt="fwmoor"
-		/>
-	</p>
-</details>
