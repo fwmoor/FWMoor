@@ -1,5 +1,5 @@
 <h2>Howzit, I'm Fred 👋</h2>
-<h4>I'm a Software Engineer that likes to build things I think are cool</h4>
+<h4>I'm a Data & Software Engineer that likes to build things I think are cool</h4>
 
 <p>- 🔨 Personal Project: <strong>Web app</strong> for football predictions</p>
 <p>- 🌱 Learning: <strong>Data Engineering</strong> and a bit about <strong>AI</strong></p>
