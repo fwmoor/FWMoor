@@ -7,4 +7,4 @@
 
 <h4 align="left">Languages and Tools:</h4>
 
-<p align="left">   <a href="https://skillicons.dev">     <img src="https://skillicons.dev/icons?i=js,ts,py,react,mysql,postgres,mongodb,prisma,redis,git,azure,aws,linux,selenium" />   </a> </p>
+<p align="left">   <a href="https://skillicons.dev">     <img src="https://skillicons.dev/icons?i=js,ts,py,react,mysql,postgres,mongodb,prisma,redis,gcp,azure,aws,linux,selenium" />   </a> </p>
